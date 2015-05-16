@@ -1,0 +1,6 @@
+F:\VS\LearnCS\LearnCS\bin\Debug\LearnCS.exe.config
+F:\VS\LearnCS\LearnCS\obj\Debug\LearnCS.csprojResolveAssemblyReference.cache
+F:\VS\LearnCS\LearnCS\bin\Debug\LearnCS.exe
+F:\VS\LearnCS\LearnCS\bin\Debug\LearnCS.pdb
+F:\VS\LearnCS\LearnCS\obj\Debug\LearnCS.exe
+F:\VS\LearnCS\LearnCS\obj\Debug\LearnCS.pdb
